@@ -15,7 +15,6 @@ body {
   background-color: #5ed7ff;
   display: inline-block;
   line-height: 15vh;
-  vertical-align: middle;
 }
 
 .left-side {
@@ -25,7 +24,6 @@ body {
   float: left;
   display: inline-block;
   line-height: 70vh;
-  vertical-align: middle;
 }
 
 .main {
@@ -35,7 +33,6 @@ body {
   background-color: #ffffff;
   display: inline-block;
   line-height: 70vh;
-  vertical-align: middle;
 }
 
 .right-side {
@@ -45,7 +42,6 @@ body {
   display: inline-block;
   float: right;
   line-height: 70vh;
-  vertical-align: middle;
 }
 
 .footer {
@@ -54,5 +50,4 @@ body {
   background-color: #5ed7ff;
   display: inline-block;
   line-height: 15vh;
-  vertical-align: middle;
 }
